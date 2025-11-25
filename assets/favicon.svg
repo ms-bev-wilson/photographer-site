@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Nina Carducci favicon">
+  <!-- Simple camera-style favicon: rounded square with camera body and lens -->
+  <rect width="64" height="64" rx="10" fill="transparent"/>
+  <g transform="translate(6,8)">
+    <!-- camera body -->
+    <rect x="2" y="6" width="44" height="28" rx="4" fill="#1f2937"/>
+    <!-- top flash / viewfinder -->
+    <rect x="6" y="2" width="10" height="6" rx="2" fill="#1f2937"/>
+    <!-- lens outer -->
+    <circle cx="24" cy="20" r="10" fill="#ffffff"/>
+    <!-- lens inner -->
+    <circle cx="24" cy="20" r="6" fill="#1f2937"/>
+  </g>
+</svg>
